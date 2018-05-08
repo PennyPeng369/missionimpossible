@@ -1,0 +1,5072 @@
+{
+  "type": "FeatureCollection",
+  "bbox": [0.0, 0.0, -1.0, -1.0],
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.4,
+      "lga_name": "Albury (C)",
+      "lga_code": 10050,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7527"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.0,
+      "lga_name": "Armidale Dumaresq (A)",
+      "lga_code": 10110,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7528"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.3,
+      "lga_name": "Ashfield (A)",
+      "lga_code": 10150,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7529"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.8,
+      "lga_name": "Auburn (C)",
+      "lga_code": 10200,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_752a"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.0,
+      "lga_name": "Ballina (A)",
+      "lga_code": 10250,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_752b"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.3,
+      "lga_name": "Balranald (A)",
+      "lga_code": 10300,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_752c"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.0,
+      "lga_name": "Bankstown (C)",
+      "lga_code": 10350,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_752d"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.4,
+      "lga_name": "Bathurst Regional (A)",
+      "lga_code": 10470,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_752e"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.7,
+      "lga_name": "Bega Valley (A)",
+      "lga_code": 10550,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_752f"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.3,
+      "lga_name": "Bellingen (A)",
+      "lga_code": 10600,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7530"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.6,
+      "lga_name": "Berrigan (A)",
+      "lga_code": 10650,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7531"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.5,
+      "lga_name": "Blacktown (C)",
+      "lga_code": 10750,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7532"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.2,
+      "lga_name": "Bland (A)",
+      "lga_code": 10800,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7533"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.9,
+      "lga_name": "Blayney (A)",
+      "lga_code": 10850,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7534"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.5,
+      "lga_name": "Blue Mountains (C)",
+      "lga_code": 10900,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7535"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.1,
+      "lga_name": "Bogan (A)",
+      "lga_code": 10950,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7536"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.2,
+      "lga_name": "Bombala (A)",
+      "lga_code": 11000,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7537"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.7,
+      "lga_name": "Boorowa (A)",
+      "lga_code": 11050,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7538"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.4,
+      "lga_name": "Botany Bay (C)",
+      "lga_code": 11100,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7539"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Bourke (A)",
+      "lga_code": 11150,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_753a"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Brewarrina (A)",
+      "lga_code": 11200,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_753b"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.3,
+      "lga_name": "Conargo (A)",
+      "lga_code": 11860,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_753c"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 19.3,
+      "lga_name": "Broken Hill (C)",
+      "lga_code": 11250,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_753d"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.9,
+      "lga_name": "Burwood (A)",
+      "lga_code": 11300,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_753e"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.0,
+      "lga_name": "Byron (A)",
+      "lga_code": 11350,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_753f"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.2,
+      "lga_name": "Cabonne (A)",
+      "lga_code": 11400,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7540"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.5,
+      "lga_name": "Camden (A)",
+      "lga_code": 11450,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7541"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.0,
+      "lga_name": "Campbelltown (C)",
+      "lga_code": 11500,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7542"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 11.0,
+      "lga_name": "Canada Bay (A)",
+      "lga_code": 11520,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7543"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.1,
+      "lga_name": "Canterbury (C)",
+      "lga_code": 11550,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7544"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.7,
+      "lga_name": "Carrathool (A)",
+      "lga_code": 11600,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7545"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 19.3,
+      "lga_name": "Central Darling (A)",
+      "lga_code": 11700,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7546"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.9,
+      "lga_name": "Cessnock (C)",
+      "lga_code": 11720,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7547"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.6,
+      "lga_name": "Clarence Valley (A)",
+      "lga_code": 11730,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7548"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.1,
+      "lga_name": "Cobar (A)",
+      "lga_code": 11750,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7549"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.1,
+      "lga_name": "Coffs Harbour (C)",
+      "lga_code": 11800,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_754a"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.7,
+      "lga_name": "Coolamon (A)",
+      "lga_code": 12000,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_754b"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.2,
+      "lga_name": "Cooma-Monaro (A)",
+      "lga_code": 12050,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_754c"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.1,
+      "lga_name": "Coonamble (A)",
+      "lga_code": 12150,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_754d"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 19.2,
+      "lga_name": "Cootamundra (A)",
+      "lga_code": 12200,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_754e"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.6,
+      "lga_name": "Corowa Shire (A)",
+      "lga_code": 12300,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_754f"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.4,
+      "lga_name": "Cowra (A)",
+      "lga_code": 12350,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7550"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.3,
+      "lga_name": "Deniliquin (A)",
+      "lga_code": 12500,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7551"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.2,
+      "lga_name": "Dubbo (C)",
+      "lga_code": 12600,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7552"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.6,
+      "lga_name": "Dungog (A)",
+      "lga_code": 12700,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7553"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.8,
+      "lga_name": "Eurobodalla (A)",
+      "lga_code": 12750,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7554"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 19.9,
+      "lga_name": "Fairfield (C)",
+      "lga_code": 12850,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7555"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.6,
+      "lga_name": "Forbes (A)",
+      "lga_code": 12900,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7556"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.3,
+      "lga_name": "Gilgandra (A)",
+      "lga_code": 12950,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7557"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 19.2,
+      "lga_name": "Glen Innes Severn (A)",
+      "lga_code": 13010,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7558"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 19.4,
+      "lga_name": "Gloucester (A)",
+      "lga_code": 13050,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7559"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.7,
+      "lga_name": "Gosford (C)",
+      "lga_code": 13100,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_755a"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.6,
+      "lga_name": "Goulburn Mulwaree (A)",
+      "lga_code": 13310,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_755b"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.3,
+      "lga_name": "Great Lakes (A)",
+      "lga_code": 13320,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_755c"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.6,
+      "lga_name": "Greater Hume Shire (A)",
+      "lga_code": 13340,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_755d"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.4,
+      "lga_name": "Greater Taree (C)",
+      "lga_code": 13380,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_755e"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.8,
+      "lga_name": "Griffith (C)",
+      "lga_code": 13450,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_755f"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 19.2,
+      "lga_name": "Gundagai (A)",
+      "lga_code": 13500,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7560"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.7,
+      "lga_name": "Gunnedah (A)",
+      "lga_code": 13550,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7561"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.0,
+      "lga_name": "Guyra (A)",
+      "lga_code": 13650,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7562"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.8,
+      "lga_name": "Gwydir (A)",
+      "lga_code": 13660,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7563"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.8,
+      "lga_name": "Harden (A)",
+      "lga_code": 13700,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7564"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.5,
+      "lga_name": "Hawkesbury (C)",
+      "lga_code": 13800,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7565"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.3,
+      "lga_name": "Hay (A)",
+      "lga_code": 13850,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7566"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.9,
+      "lga_name": "Holroyd (C)",
+      "lga_code": 13950,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7567"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 9.1,
+      "lga_name": "Hornsby (A)",
+      "lga_code": 14000,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7568"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 7.9,
+      "lga_name": "Hunters Hill (A)",
+      "lga_code": 14100,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7569"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.8,
+      "lga_name": "Hurstville (C)",
+      "lga_code": 14150,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_756a"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.2,
+      "lga_name": "Inverell (A)",
+      "lga_code": 14200,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_756b"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.5,
+      "lga_name": "Jerilderie (A)",
+      "lga_code": 14250,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_756c"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 19.2,
+      "lga_name": "Junee (A)",
+      "lga_code": 14300,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_756d"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 19.1,
+      "lga_name": "Kempsey (A)",
+      "lga_code": 14350,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_756e"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 10.9,
+      "lga_name": "Kiama (A)",
+      "lga_code": 14400,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_756f"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 11.5,
+      "lga_name": "Kogarah (C)",
+      "lga_code": 14450,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7570"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 5.7,
+      "lga_name": "Ku-ring-gai (A)",
+      "lga_code": 14500,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7571"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 20.5,
+      "lga_name": "Kyogle (A)",
+      "lga_code": 14550,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7572"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.7,
+      "lga_name": "Lachlan (A)",
+      "lga_code": 14600,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7573"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.2,
+      "lga_name": "Lake Macquarie (C)",
+      "lga_code": 14650,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7574"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 7.4,
+      "lga_name": "Lane Cove (A)",
+      "lga_code": 14700,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7575"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.6,
+      "lga_name": "Leeton (A)",
+      "lga_code": 14750,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7576"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 9.8,
+      "lga_name": "Leichhardt (A)",
+      "lga_code": 14800,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7577"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.2,
+      "lga_name": "Lismore (C)",
+      "lga_code": 14850,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7578"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.6,
+      "lga_name": "Lithgow (C)",
+      "lga_code": 14870,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7579"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.5,
+      "lga_name": "Liverpool (C)",
+      "lga_code": 14900,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_757a"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.5,
+      "lga_name": "Liverpool Plains (A)",
+      "lga_code": 14920,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_757b"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.0,
+      "lga_name": "Lockhart (A)",
+      "lga_code": 14950,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_757c"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.3,
+      "lga_name": "Maitland (C)",
+      "lga_code": 15050,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_757d"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 7.5,
+      "lga_name": "Manly (A)",
+      "lga_code": 15150,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_757e"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.2,
+      "lga_name": "Marrickville (A)",
+      "lga_code": 15200,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_757f"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.3,
+      "lga_name": "Mid-Western Regional (A)",
+      "lga_code": 15270,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7580"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.3,
+      "lga_name": "Moree Plains (A)",
+      "lga_code": 15300,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7581"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 5.4,
+      "lga_name": "Mosman (A)",
+      "lga_code": 15350,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7582"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.3,
+      "lga_name": "Murray (A)",
+      "lga_code": 15500,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7583"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.7,
+      "lga_name": "Murrumbidgee (A)",
+      "lga_code": 15550,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7584"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.0,
+      "lga_name": "Muswellbrook (A)",
+      "lga_code": 15650,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7585"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.6,
+      "lga_name": "Nambucca (A)",
+      "lga_code": 15700,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7586"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.3,
+      "lga_name": "Narrabri (A)",
+      "lga_code": 15750,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7587"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.8,
+      "lga_name": "Narrandera (A)",
+      "lga_code": 15800,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7588"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.3,
+      "lga_name": "Narromine (A)",
+      "lga_code": 15850,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7589"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.4,
+      "lga_name": "Newcastle (C)",
+      "lga_code": 15900,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_758a"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 8.2,
+      "lga_name": "North Sydney (A)",
+      "lga_code": 15950,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_758b"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.6,
+      "lga_name": "Oberon (A)",
+      "lga_code": 16100,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_758c"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.3,
+      "lga_name": "Orange (C)",
+      "lga_code": 16150,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_758d"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.1,
+      "lga_name": "Palerang (A)",
+      "lga_code": 16180,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_758e"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.7,
+      "lga_name": "Parkes (A)",
+      "lga_code": 16200,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_758f"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.5,
+      "lga_name": "Parramatta (C)",
+      "lga_code": 16250,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7590"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.4,
+      "lga_name": "Penrith (C)",
+      "lga_code": 16350,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7591"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 7.9,
+      "lga_name": "Pittwater (A)",
+      "lga_code": 16370,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7592"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.4,
+      "lga_name": "Port Macquarie-Hastings (A)",
+      "lga_code": 16380,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7593"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.9,
+      "lga_name": "Port Stephens (A)",
+      "lga_code": 16400,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7594"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.1,
+      "lga_name": "Queanbeyan (C)",
+      "lga_code": 16470,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7595"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.5,
+      "lga_name": "Randwick (C)",
+      "lga_code": 16550,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7596"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.7,
+      "lga_name": "Richmond Valley (A)",
+      "lga_code": 16610,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7597"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.2,
+      "lga_name": "Rockdale (C)",
+      "lga_code": 16650,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7598"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 11.3,
+      "lga_name": "Ryde (C)",
+      "lga_code": 16700,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7599"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.0,
+      "lga_name": "Shellharbour (C)",
+      "lga_code": 16900,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_759a"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.4,
+      "lga_name": "Shoalhaven (C)",
+      "lga_code": 16950,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_759b"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.6,
+      "lga_name": "Singleton (A)",
+      "lga_code": 17000,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_759c"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.7,
+      "lga_name": "Snowy River (A)",
+      "lga_code": 17050,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_759d"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 11.0,
+      "lga_name": "Strathfield (A)",
+      "lga_code": 17100,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_759e"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 10.5,
+      "lga_name": "Sutherland Shire (A)",
+      "lga_code": 17150,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_759f"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.5,
+      "lga_name": "Sydney (C)",
+      "lga_code": 17200,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75a0"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.7,
+      "lga_name": "Tamworth Regional (A)",
+      "lga_code": 17310,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75a1"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 19.2,
+      "lga_name": "Temora (A)",
+      "lga_code": 17350,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75a2"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 19.2,
+      "lga_name": "Tenterfield (A)",
+      "lga_code": 17400,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75a3"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 9.1,
+      "lga_name": "The Hills Shire (A)",
+      "lga_code": 17420,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75a4"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.3,
+      "lga_name": "Tumbarumba (A)",
+      "lga_code": 17450,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75a5"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.5,
+      "lga_name": "Tumut Shire (A)",
+      "lga_code": 17500,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75a6"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.5,
+      "lga_name": "Tweed (A)",
+      "lga_code": 17550,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75a7"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.0,
+      "lga_name": "Upper Hunter Shire (A)",
+      "lga_code": 17620,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75a8"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.1,
+      "lga_name": "Upper Lachlan Shire (A)",
+      "lga_code": 17640,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75a9"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.5,
+      "lga_name": "Uralla (A)",
+      "lga_code": 17650,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75aa"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.8,
+      "lga_name": "Urana (A)",
+      "lga_code": 17700,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75ab"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.6,
+      "lga_name": "Wagga Wagga (C)",
+      "lga_code": 17750,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75ac"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.4,
+      "lga_name": "Wakool (A)",
+      "lga_code": 17800,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75ad"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.7,
+      "lga_name": "Walcha (A)",
+      "lga_code": 17850,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75ae"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Walgett (A)",
+      "lga_code": 17900,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75af"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.1,
+      "lga_name": "Warren (A)",
+      "lga_code": 17950,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75b0"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 10.0,
+      "lga_name": "Warringah (A)",
+      "lga_code": 18000,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75b1"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.7,
+      "lga_name": "Warrumbungle Shire (A)",
+      "lga_code": 18020,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75b2"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 9.5,
+      "lga_name": "Waverley (A)",
+      "lga_code": 18050,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75b3"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.2,
+      "lga_name": "Weddin (A)",
+      "lga_code": 18100,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75b4"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.0,
+      "lga_name": "Wellington (A)",
+      "lga_code": 18150,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75b5"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.3,
+      "lga_name": "Wentworth (A)",
+      "lga_code": 18200,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75b6"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 8.1,
+      "lga_name": "Willoughby (C)",
+      "lga_code": 18250,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75b7"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.1,
+      "lga_name": "Wingecarribee (A)",
+      "lga_code": 18350,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75b8"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.0,
+      "lga_name": "Wollondilly (A)",
+      "lga_code": 18400,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75b9"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.1,
+      "lga_name": "Wollongong (C)",
+      "lga_code": 18450,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75ba"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 6.8,
+      "lga_name": "Woollahra (A)",
+      "lga_code": 18500,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75bb"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.9,
+      "lga_name": "Wyong (A)",
+      "lga_code": 18550,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75bc"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 11.8,
+      "lga_name": "Yass Valley (A)",
+      "lga_code": 18710,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75bd"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.1,
+      "lga_name": "Young (A)",
+      "lga_code": 18750,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75be"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Unincorporated NSW",
+      "lga_code": 19399,
+      "ste_name": "nsw"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75bf"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.8,
+      "lga_name": "Alpine (S)",
+      "lga_code": 20110,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75c0"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.7,
+      "lga_name": "Ararat (RC)",
+      "lga_code": 20260,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75c1"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.9,
+      "lga_name": "Ballarat (C)",
+      "lga_code": 20570,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75c2"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.8,
+      "lga_name": "Banyule (C)",
+      "lga_code": 20660,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75c3"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.7,
+      "lga_name": "Bass Coast (S)",
+      "lga_code": 20740,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75c4"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.2,
+      "lga_name": "Baw Baw (S)",
+      "lga_code": 20830,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75c5"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 8.7,
+      "lga_name": "Bayside (C)",
+      "lga_code": 20910,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75c6"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.4,
+      "lga_name": "Benalla (RC)",
+      "lga_code": 21010,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75c7"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 8.4,
+      "lga_name": "Boroondara (C)",
+      "lga_code": 21110,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75c8"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 21.2,
+      "lga_name": "Brimbank (C)",
+      "lga_code": 21180,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75c9"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.3,
+      "lga_name": "Buloke (S)",
+      "lga_code": 21270,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75ca"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.5,
+      "lga_name": "Campaspe (S)",
+      "lga_code": 21370,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75cb"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.3,
+      "lga_name": "Cardinia (S)",
+      "lga_code": 21450,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75cc"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.3,
+      "lga_name": "Casey (C)",
+      "lga_code": 21610,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75cd"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 19.3,
+      "lga_name": "Central Goldfields (S)",
+      "lga_code": 21670,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75ce"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.2,
+      "lga_name": "Colac-Otway (S)",
+      "lga_code": 21750,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75cf"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.4,
+      "lga_name": "Corangamite (S)",
+      "lga_code": 21830,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75d0"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 19.3,
+      "lga_name": "Darebin (C)",
+      "lga_code": 21890,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75d1"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.1,
+      "lga_name": "East Gippsland (S)",
+      "lga_code": 22110,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75d2"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.6,
+      "lga_name": "Frankston (C)",
+      "lga_code": 22170,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75d3"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.3,
+      "lga_name": "Gannawarra (S)",
+      "lga_code": 22250,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75d4"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.4,
+      "lga_name": "Greater Geelong (C)",
+      "lga_code": 22750,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75d5"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.7,
+      "lga_name": "Greater Shepparton (C)",
+      "lga_code": 22830,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75d6"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.8,
+      "lga_name": "Hepburn (S)",
+      "lga_code": 22910,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75d7"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.6,
+      "lga_name": "Hindmarsh (S)",
+      "lga_code": 22980,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75d8"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.0,
+      "lga_name": "Hobsons Bay (C)",
+      "lga_code": 23110,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75d9"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.1,
+      "lga_name": "Horsham (RC)",
+      "lga_code": 23190,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75da"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 19.2,
+      "lga_name": "Hume (C)",
+      "lga_code": 23270,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75db"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.1,
+      "lga_name": "Indigo (S)",
+      "lga_code": 23350,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75dc"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.0,
+      "lga_name": "Kingston (C)",
+      "lga_code": 23430,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75dd"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.2,
+      "lga_name": "Knox (C)",
+      "lga_code": 23670,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75de"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 19.6,
+      "lga_name": "Latrobe (C)",
+      "lga_code": 23810,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75df"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 19.6,
+      "lga_name": "Loddon (S)",
+      "lga_code": 23940,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75e0"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.0,
+      "lga_name": "Macedon Ranges (S)",
+      "lga_code": 24130,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75e1"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 11.3,
+      "lga_name": "Manningham (C)",
+      "lga_code": 24210,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75e2"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.2,
+      "lga_name": "Mansfield (S)",
+      "lga_code": 24250,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75e3"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.9,
+      "lga_name": "Maribyrnong (C)",
+      "lga_code": 24330,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75e4"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.9,
+      "lga_name": "Maroondah (C)",
+      "lga_code": 24410,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75e5"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.7,
+      "lga_name": "Melbourne (C)",
+      "lga_code": 24600,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75e6"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.6,
+      "lga_name": "Melton (S)",
+      "lga_code": 24650,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75e7"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.6,
+      "lga_name": "Mildura (RC)",
+      "lga_code": 24780,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75e8"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.9,
+      "lga_name": "Mitchell (S)",
+      "lga_code": 24850,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75e9"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.4,
+      "lga_name": "Moira (S)",
+      "lga_code": 24900,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75ea"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.3,
+      "lga_name": "Monash (C)",
+      "lga_code": 24970,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75eb"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.7,
+      "lga_name": "Moonee Valley (C)",
+      "lga_code": 25060,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75ec"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.6,
+      "lga_name": "Moorabool (S)",
+      "lga_code": 25150,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75ed"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.6,
+      "lga_name": "Moreland (C)",
+      "lga_code": 25250,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75ee"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.2,
+      "lga_name": "Glen Eira (C)",
+      "lga_code": 22310,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75ef"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.7,
+      "lga_name": "Glenelg (S)",
+      "lga_code": 22410,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75f0"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.0,
+      "lga_name": "Golden Plains (S)",
+      "lga_code": 22490,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75f1"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.1,
+      "lga_name": "Greater Bendigo (C)",
+      "lga_code": 22620,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75f2"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 20.1,
+      "lga_name": "Greater Dandenong (C)",
+      "lga_code": 22670,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75f3"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.0,
+      "lga_name": "Mornington Peninsula (S)",
+      "lga_code": 25340,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75f4"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.9,
+      "lga_name": "Mount Alexander (S)",
+      "lga_code": 25430,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75f5"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.7,
+      "lga_name": "Moyne (S)",
+      "lga_code": 25490,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75f6"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.0,
+      "lga_name": "Murrindindi (S)",
+      "lga_code": 25620,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75f7"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 10.0,
+      "lga_name": "Nillumbik (S)",
+      "lga_code": 25710,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75f8"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 19.0,
+      "lga_name": "Northern Grampians (S)",
+      "lga_code": 25810,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75f9"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.2,
+      "lga_name": "Port Phillip (C)",
+      "lga_code": 25900,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75fa"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 20.8,
+      "lga_name": "Pyrenees (S)",
+      "lga_code": 25990,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75fb"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.5,
+      "lga_name": "Queenscliffe (B)",
+      "lga_code": 26080,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75fc"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.4,
+      "lga_name": "South Gippsland (S)",
+      "lga_code": 26170,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75fd"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.5,
+      "lga_name": "Southern Grampians (S)",
+      "lga_code": 26260,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75fe"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 10.1,
+      "lga_name": "Stonnington (C)",
+      "lga_code": 26350,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_75ff"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.5,
+      "lga_name": "Strathbogie (S)",
+      "lga_code": 26430,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7600"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.9,
+      "lga_name": "Surf Coast (S)",
+      "lga_code": 26490,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7601"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.2,
+      "lga_name": "Swan Hill (RC)",
+      "lga_code": 26610,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7602"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.3,
+      "lga_name": "Towong (S)",
+      "lga_code": 26670,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7603"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.3,
+      "lga_name": "Wangaratta (RC)",
+      "lga_code": 26700,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7604"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.6,
+      "lga_name": "Warrnambool (C)",
+      "lga_code": 26730,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7605"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.8,
+      "lga_name": "Wellington (S)",
+      "lga_code": 26810,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7606"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.6,
+      "lga_name": "West Wimmera (S)",
+      "lga_code": 26890,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7607"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.2,
+      "lga_name": "Whitehorse (C)",
+      "lga_code": 26980,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7608"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 19.0,
+      "lga_name": "Whittlesea (C)",
+      "lga_code": 27070,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7609"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.6,
+      "lga_name": "Wodonga (RC)",
+      "lga_code": 27170,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_760a"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.1,
+      "lga_name": "Wyndham (C)",
+      "lga_code": 27260,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_760b"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.0,
+      "lga_name": "Yarra (C)",
+      "lga_code": 27350,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_760c"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.4,
+      "lga_name": "Yarra Ranges (S)",
+      "lga_code": 27450,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_760d"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.6,
+      "lga_name": "Yarriambiack (S)",
+      "lga_code": 27630,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_760e"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Unincorporated Vic",
+      "lga_code": 29399,
+      "ste_name": "vic"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_760f"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Aurukun (S)",
+      "lga_code": 30250,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7610"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.0,
+      "lga_name": "Balonne (S)",
+      "lga_code": 30300,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7611"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.3,
+      "lga_name": "Banana (S)",
+      "lga_code": 30370,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7612"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Barcaldine (R)",
+      "lga_code": 30410,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7613"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Barcoo (S)",
+      "lga_code": 30450,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7614"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Blackall Tambo (R)",
+      "lga_code": 30760,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7615"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Pormpuraaw (S)",
+      "lga_code": 36070,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7616"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Quilpie (S)",
+      "lga_code": 36150,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7617"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.1,
+      "lga_name": "Redland (C)",
+      "lga_code": 36250,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7618"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Richmond (S)",
+      "lga_code": 36300,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7619"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.9,
+      "lga_name": "Rockhampton (R)",
+      "lga_code": 36360,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_761a"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.4,
+      "lga_name": "Scenic Rim (R)",
+      "lga_code": 36510,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_761b"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.6,
+      "lga_name": "Somerset (R)",
+      "lga_code": 36580,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_761c"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 20.7,
+      "lga_name": "South Burnett (R)",
+      "lga_code": 36630,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_761d"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.7,
+      "lga_name": "Southern Downs (R)",
+      "lga_code": 36660,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_761e"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.6,
+      "lga_name": "Sunshine Coast (R)",
+      "lga_code": 36710,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_761f"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.9,
+      "lga_name": "Tablelands (R)",
+      "lga_code": 36810,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7620"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.9,
+      "lga_name": "Toowoomba (R)",
+      "lga_code": 36910,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7621"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Torres (S)",
+      "lga_code": 36950,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7622"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Torres Strait Island (R)",
+      "lga_code": 36960,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7623"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.9,
+      "lga_name": "Townsville (C)",
+      "lga_code": 37010,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7624"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Weipa (T)",
+      "lga_code": 37300,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7625"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.0,
+      "lga_name": "Western Downs (R)",
+      "lga_code": 37310,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7626"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.6,
+      "lga_name": "Whitsunday (R)",
+      "lga_code": 37340,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7627"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.0,
+      "lga_name": "Barunga West (DC)",
+      "lga_code": 40430,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7628"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.2,
+      "lga_name": "Berri and Barmera (DC)",
+      "lga_code": 40520,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7629"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.3,
+      "lga_name": "Augusta-Margaret River (S)",
+      "lga_code": 50280,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_762a"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.8,
+      "lga_name": "Bassendean (T)",
+      "lga_code": 50350,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_762b"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.9,
+      "lga_name": "Bayswater (C)",
+      "lga_code": 50420,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_762c"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.0,
+      "lga_name": "Belmont (C)",
+      "lga_code": 50490,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_762d"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.3,
+      "lga_name": "Beverley (S)",
+      "lga_code": 50560,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_762e"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.1,
+      "lga_name": "Boddington (S)",
+      "lga_code": 50630,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_762f"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.3,
+      "lga_name": "Boyup Brook (S)",
+      "lga_code": 50770,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7630"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.3,
+      "lga_name": "Bridgetown-Greenbushes (S)",
+      "lga_code": 50840,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7631"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Brookton (S)",
+      "lga_code": 50910,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7632"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Boulia (S)",
+      "lga_code": 30900,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7633"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.3,
+      "lga_name": "Brisbane (C)",
+      "lga_code": 31000,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7634"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.6,
+      "lga_name": "Alexandrina (DC)",
+      "lga_code": 40220,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7635"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.9,
+      "lga_name": "Copper Coast (DC)",
+      "lga_code": 41560,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7636"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Elliston (DC)",
+      "lga_code": 41750,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7637"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.9,
+      "lga_name": "Broome (S)",
+      "lga_code": 50980,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7638"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 10.5,
+      "lga_name": "Broomehill-Tambellup (S)",
+      "lga_code": 51080,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7639"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Bruce Rock (S)",
+      "lga_code": 51120,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_763a"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.7,
+      "lga_name": "Bunbury (C)",
+      "lga_code": 51190,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_763b"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.5,
+      "lga_name": "Busselton (S)",
+      "lga_code": 51260,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_763c"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 6.8,
+      "lga_name": "Cambridge (T)",
+      "lga_code": 51310,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_763d"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.1,
+      "lga_name": "Canning (C)",
+      "lga_code": 51330,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_763e"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Bulloo (S)",
+      "lga_code": 31750,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_763f"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.9,
+      "lga_name": "Bundaberg (R)",
+      "lga_code": 31820,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7640"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.7,
+      "lga_name": "Burdekin (S)",
+      "lga_code": 31900,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7641"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Burke (S)",
+      "lga_code": 31950,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7642"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.3,
+      "lga_name": "Cairns (R)",
+      "lga_code": 32070,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7643"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Carpentaria (S)",
+      "lga_code": 32250,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7644"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 19.0,
+      "lga_name": "Cassowary Coast (R)",
+      "lga_code": 32260,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7645"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.5,
+      "lga_name": "Central Highlands (R)",
+      "lga_code": 32270,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7646"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.7,
+      "lga_name": "Charters Towers (R)",
+      "lga_code": 32310,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7647"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.6,
+      "lga_name": "Mount Gambier (C)",
+      "lga_code": 44620,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7648"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.9,
+      "lga_name": "Mount Remarkable (DC)",
+      "lga_code": 44830,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7649"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.7,
+      "lga_name": "Capel (S)",
+      "lga_code": 51400,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_764a"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 23.6,
+      "lga_name": "Cherbourg (S)",
+      "lga_code": 32330,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_764b"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Cloncurry (S)",
+      "lga_code": 32450,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_764c"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Cook (S)",
+      "lga_code": 32500,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_764d"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Croydon (S)",
+      "lga_code": 32600,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_764e"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 20.2,
+      "lga_name": "Murray Bridge (RC)",
+      "lga_code": 45040,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_764f"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Carnamah (S)",
+      "lga_code": 51470,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7650"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.3,
+      "lga_name": "Carnarvon (S)",
+      "lga_code": 51540,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7651"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 11.7,
+      "lga_name": "Chapman Valley (S)",
+      "lga_code": 51610,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7652"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Diamantina (S)",
+      "lga_code": 32750,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7653"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Doomadgee (S)",
+      "lga_code": 32770,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7654"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Etheridge (S)",
+      "lga_code": 33100,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7655"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Flinders (S)",
+      "lga_code": 33200,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7656"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 19.8,
+      "lga_name": "Fraser Coast (R)",
+      "lga_code": 33220,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7657"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.5,
+      "lga_name": "Gladstone (R)",
+      "lga_code": 33360,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7658"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.0,
+      "lga_name": "Gold Coast (C)",
+      "lga_code": 33430,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7659"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.0,
+      "lga_name": "Goondiwindi (R)",
+      "lga_code": 33610,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_765a"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 19.2,
+      "lga_name": "Gympie (R)",
+      "lga_code": 33620,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_765b"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.7,
+      "lga_name": "Hinchinbrook (S)",
+      "lga_code": 33800,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_765c"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Hope Vale (S)",
+      "lga_code": 33830,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_765d"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.4,
+      "lga_name": "Ipswich (C)",
+      "lga_code": 33960,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_765e"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.4,
+      "lga_name": "Isaac (R)",
+      "lga_code": 33980,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_765f"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Kowanyama (S)",
+      "lga_code": 34420,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7660"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Lockhart River (S)",
+      "lga_code": 34570,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7661"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.4,
+      "lga_name": "Lockyer Valley (R)",
+      "lga_code": 34580,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7662"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.9,
+      "lga_name": "Logan (C)",
+      "lga_code": 34590,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7663"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Longreach (R)",
+      "lga_code": 34710,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7664"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.4,
+      "lga_name": "Mackay (R)",
+      "lga_code": 34770,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7665"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "McKinlay (S)",
+      "lga_code": 34800,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7666"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Mapoon (S)",
+      "lga_code": 34830,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7667"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.5,
+      "lga_name": "Maranoa (R)",
+      "lga_code": 34860,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7668"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.3,
+      "lga_name": "Moreton Bay (R)",
+      "lga_code": 35010,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7669"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Mornington (S)",
+      "lga_code": 35250,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_766a"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.2,
+      "lga_name": "Mount Isa (C)",
+      "lga_code": 35300,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_766b"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Murweh (S)",
+      "lga_code": 35600,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_766c"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Napranum (S)",
+      "lga_code": 35670,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_766d"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 20.9,
+      "lga_name": "North Burnett (R)",
+      "lga_code": 35760,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_766e"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Northern Peninsula Area (R)",
+      "lga_code": 35780,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_766f"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.7,
+      "lga_name": "Palm Island (S)",
+      "lga_code": 35790,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7670"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Paroo (S)",
+      "lga_code": 35800,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7671"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Winton (S)",
+      "lga_code": 37400,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7672"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Woorabinda (S)",
+      "lga_code": 37550,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7673"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Anangu Pitjantjatjara (AC)",
+      "lga_code": 40250,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7674"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.1,
+      "lga_name": "Barossa (DC)",
+      "lga_code": 40310,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7675"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Wujal Wujal (S)",
+      "lga_code": 37570,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7676"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 20.3,
+      "lga_name": "Yarrabah (S)",
+      "lga_code": 37600,
+      "ste_name": "qld"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7677"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.2,
+      "lga_name": "Adelaide (C)",
+      "lga_code": 40070,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7678"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 10.0,
+      "lga_name": "Adelaide Hills (DC)",
+      "lga_code": 40120,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7679"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 8.4,
+      "lga_name": "Burnside (C)",
+      "lga_code": 40700,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_767a"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.3,
+      "lga_name": "Campbelltown (C)",
+      "lga_code": 40910,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_767b"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Ceduna (DC)",
+      "lga_code": 41010,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_767c"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.3,
+      "lga_name": "Charles Sturt (C)",
+      "lga_code": 41060,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_767d"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.5,
+      "lga_name": "Clare and Gilbert Valleys (DC)",
+      "lga_code": 41140,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_767e"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 10.9,
+      "lga_name": "Cleve (DC)",
+      "lga_code": 41190,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_767f"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Coober Pedy (DC)",
+      "lga_code": 41330,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7680"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 20.1,
+      "lga_name": "Flinders Ranges (DC)",
+      "lga_code": 41830,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7681"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 10.9,
+      "lga_name": "Franklin Harbour (DC)",
+      "lga_code": 41960,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7682"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.7,
+      "lga_name": "Gawler (T)",
+      "lga_code": 42030,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7683"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.5,
+      "lga_name": "Goyder (DC)",
+      "lga_code": 42110,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7684"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.1,
+      "lga_name": "Grant (DC)",
+      "lga_code": 42250,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7685"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Coolgardie (S)",
+      "lga_code": 51960,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7686"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 10.7,
+      "lga_name": "Coorow (S)",
+      "lga_code": 52030,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7687"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 11.9,
+      "lga_name": "Holdfast Bay (C)",
+      "lga_code": 42600,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7688"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.5,
+      "lga_name": "Kangaroo Island (DC)",
+      "lga_code": 42750,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7689"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.0,
+      "lga_name": "Karoonda East Murray (DC)",
+      "lga_code": 43080,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_768a"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 10.9,
+      "lga_name": "Kimba (DC)",
+      "lga_code": 43220,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_768b"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.2,
+      "lga_name": "Kingston (DC)",
+      "lga_code": 43360,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_768c"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.9,
+      "lga_name": "Light (RegC)",
+      "lga_code": 43650,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_768d"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Lower Eyre Peninsula (DC)",
+      "lga_code": 43710,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_768e"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.3,
+      "lga_name": "Loxton Waikerie (DC)",
+      "lga_code": 43790,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_768f"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.9,
+      "lga_name": "Mallala (DC)",
+      "lga_code": 43920,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7690"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.3,
+      "lga_name": "Marion (C)",
+      "lga_code": 44060,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7691"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 19.8,
+      "lga_name": "Mid Murray (DC)",
+      "lga_code": 44210,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7692"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 11.3,
+      "lga_name": "Mitcham (C)",
+      "lga_code": 44340,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7693"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.9,
+      "lga_name": "Mount Barker (DC)",
+      "lga_code": 44550,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7694"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.5,
+      "lga_name": "Naracoorte and Lucindale (DC)",
+      "lga_code": 45090,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7695"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.0,
+      "lga_name": "Northern Areas (DC)",
+      "lga_code": 45120,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7696"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.6,
+      "lga_name": "Norwood Payneham St Peters (C)",
+      "lga_code": 45290,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7697"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.8,
+      "lga_name": "Onkaparinga (C)",
+      "lga_code": 45340,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7698"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Orroroo\/Carrieton (DC)",
+      "lga_code": 45400,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7699"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.9,
+      "lga_name": "Peterborough (DC)",
+      "lga_code": 45540,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_769a"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 20.7,
+      "lga_name": "Playford (C)",
+      "lga_code": 45680,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_769b"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 19.4,
+      "lga_name": "Port Adelaide Enfield (C)",
+      "lga_code": 45890,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_769c"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 20.1,
+      "lga_name": "Port Augusta (C)",
+      "lga_code": 46090,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_769d"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.4,
+      "lga_name": "Port Lincoln (C)",
+      "lga_code": 46300,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_769e"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 20.5,
+      "lga_name": "Port Pirie City and Dists (M)",
+      "lga_code": 46450,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_769f"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 11.8,
+      "lga_name": "Prospect (C)",
+      "lga_code": 46510,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76a0"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.5,
+      "lga_name": "Renmark Paringa (DC)",
+      "lga_code": 46670,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76a1"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.2,
+      "lga_name": "Robe (DC)",
+      "lga_code": 46860,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76a2"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.4,
+      "lga_name": "Roxby Downs (M)",
+      "lga_code": 46970,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76a3"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.9,
+      "lga_name": "Salisbury (C)",
+      "lga_code": 47140,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76a4"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.8,
+      "lga_name": "Southern Mallee (DC)",
+      "lga_code": 47290,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76a5"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Streaky Bay (DC)",
+      "lga_code": 47490,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76a6"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.2,
+      "lga_name": "Tatiara (DC)",
+      "lga_code": 47630,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76a7"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.7,
+      "lga_name": "Tea Tree Gully (C)",
+      "lga_code": 47700,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76a8"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.8,
+      "lga_name": "The Coorong (DC)",
+      "lga_code": 47800,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76a9"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Tumby Bay (DC)",
+      "lga_code": 47910,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76aa"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 11.0,
+      "lga_name": "Unley (C)",
+      "lga_code": 47980,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76ab"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.2,
+      "lga_name": "Victor Harbor (C)",
+      "lga_code": 48050,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76ac"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.0,
+      "lga_name": "Wakefield (DC)",
+      "lga_code": 48130,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76ad"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Wudinna (DC)",
+      "lga_code": 48640,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76ae"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.2,
+      "lga_name": "Yankalilla (DC)",
+      "lga_code": 48750,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76af"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 11.8,
+      "lga_name": "Walkerville (M)",
+      "lga_code": 48260,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76b0"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.5,
+      "lga_name": "Wattle Range (DC)",
+      "lga_code": 48340,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76b1"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.4,
+      "lga_name": "West Torrens (C)",
+      "lga_code": 48410,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76b2"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 21.9,
+      "lga_name": "Whyalla (C)",
+      "lga_code": 48540,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76b3"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.7,
+      "lga_name": "Yorke Peninsula (DC)",
+      "lga_code": 48830,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76b4"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Unincorporated SA",
+      "lga_code": 49399,
+      "ste_name": "sa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76b5"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.0,
+      "lga_name": "Albany (C)",
+      "lga_code": 50080,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76b6"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.1,
+      "lga_name": "Armadale (C)",
+      "lga_code": 50210,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76b7"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Ashburton (S)",
+      "lga_code": 50250,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76b8"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.7,
+      "lga_name": "Chittering (S)",
+      "lga_code": 51680,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76b9"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 6.5,
+      "lga_name": "Claremont (T)",
+      "lga_code": 51750,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76ba"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.9,
+      "lga_name": "Cockburn (C)",
+      "lga_code": 51820,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76bb"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 21.1,
+      "lga_name": "Collie (S)",
+      "lga_code": 51890,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76bc"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.4,
+      "lga_name": "Corrigin (S)",
+      "lga_code": 52100,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76bd"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 6.6,
+      "lga_name": "Cottesloe (T)",
+      "lga_code": 52170,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76be"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 10.5,
+      "lga_name": "Cranbrook (S)",
+      "lga_code": 52240,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76bf"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Cuballing (S)",
+      "lga_code": 52310,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76c0"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Cue (S)",
+      "lga_code": 52380,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76c1"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.9,
+      "lga_name": "Cunderdin (S)",
+      "lga_code": 52450,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76c2"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.7,
+      "lga_name": "Dalwallinu (S)",
+      "lga_code": 52520,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76c3"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.7,
+      "lga_name": "Dandaragan (S)",
+      "lga_code": 52590,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76c4"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.9,
+      "lga_name": "Dardanup (S)",
+      "lga_code": 52660,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76c5"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.2,
+      "lga_name": "Denmark (S)",
+      "lga_code": 52730,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76c6"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Derby-West Kimberley (S)",
+      "lga_code": 52800,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76c7"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.3,
+      "lga_name": "Donnybrook-Balingup (S)",
+      "lga_code": 52870,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76c8"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Dowerin (S)",
+      "lga_code": 52940,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76c9"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Dumbleyung (S)",
+      "lga_code": 53010,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76ca"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Dundas (S)",
+      "lga_code": 53080,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76cb"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 11.5,
+      "lga_name": "East Fremantle (T)",
+      "lga_code": 53150,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76cc"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "East Pilbara (S)",
+      "lga_code": 53220,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76cd"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.9,
+      "lga_name": "Esperance (S)",
+      "lga_code": 53290,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76ce"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Exmouth (S)",
+      "lga_code": 53360,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76cf"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.1,
+      "lga_name": "Fremantle (C)",
+      "lga_code": 53430,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76d0"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.1,
+      "lga_name": "Geraldton-Greenough (C)",
+      "lga_code": 53520,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76d1"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.7,
+      "lga_name": "Gingin (S)",
+      "lga_code": 53570,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76d2"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 10.5,
+      "lga_name": "Gnowangerup (S)",
+      "lga_code": 53640,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76d3"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Kalgoorlie\/Boulder (C)",
+      "lga_code": 54280,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76d4"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.7,
+      "lga_name": "Goomalling (S)",
+      "lga_code": 53710,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76d5"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.8,
+      "lga_name": "Gosnells (C)",
+      "lga_code": 53780,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76d6"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Halls Creek (S)",
+      "lga_code": 53920,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76d7"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.8,
+      "lga_name": "Harvey (S)",
+      "lga_code": 53990,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76d8"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 10.7,
+      "lga_name": "Irwin (S)",
+      "lga_code": 54060,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76d9"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 10.5,
+      "lga_name": "Jerramungup (S)",
+      "lga_code": 54130,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76da"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 10.4,
+      "lga_name": "Joondalup (C)",
+      "lga_code": 54170,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76db"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 11.5,
+      "lga_name": "Kalamunda (S)",
+      "lga_code": 54200,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76dc"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 19.0,
+      "lga_name": "Katanning (S)",
+      "lga_code": 54340,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76dd"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.9,
+      "lga_name": "Kellerberrin (S)",
+      "lga_code": 54410,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76de"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Kent (S)",
+      "lga_code": 54480,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76df"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 10.5,
+      "lga_name": "Kojonup (S)",
+      "lga_code": 54550,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76e0"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.1,
+      "lga_name": "Kondinin (S)",
+      "lga_code": 54620,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76e1"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Koorda (S)",
+      "lga_code": 54690,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76e2"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Kulin (S)",
+      "lga_code": 54760,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76e3"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.1,
+      "lga_name": "Kwinana (T)",
+      "lga_code": 54830,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76e4"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.1,
+      "lga_name": "Lake Grace (S)",
+      "lga_code": 54900,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76e5"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Laverton (S)",
+      "lga_code": 54970,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76e6"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.6,
+      "lga_name": "Narrogin (T)",
+      "lga_code": 56520,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76e7"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 6.1,
+      "lga_name": "Nedlands (C)",
+      "lga_code": 56580,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76e8"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Leonora (S)",
+      "lga_code": 55040,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76e9"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.6,
+      "lga_name": "Mandurah (C)",
+      "lga_code": 55110,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76ea"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.6,
+      "lga_name": "Manjimup (S)",
+      "lga_code": 55180,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76eb"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Meekatharra (S)",
+      "lga_code": 55250,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76ec"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 9.2,
+      "lga_name": "Melville (C)",
+      "lga_code": 55320,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76ed"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Ngaanyatjarraku (S)",
+      "lga_code": 56620,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76ee"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Menzies (S)",
+      "lga_code": 55390,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76ef"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.9,
+      "lga_name": "Merredin (S)",
+      "lga_code": 55460,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76f0"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Mingenew (S)",
+      "lga_code": 55530,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76f1"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.7,
+      "lga_name": "Moora (S)",
+      "lga_code": 55600,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76f2"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Morawa (S)",
+      "lga_code": 55670,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76f3"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 6.6,
+      "lga_name": "Peppermint Grove (S)",
+      "lga_code": 56930,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76f4"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 6.6,
+      "lga_name": "Mosman Park (T)",
+      "lga_code": 55740,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76f5"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Mount Magnet (S)",
+      "lga_code": 55810,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76f6"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Mount Marshall (S)",
+      "lga_code": 55880,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76f7"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.4,
+      "lga_name": "Pingelly (S)",
+      "lga_code": 57140,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76f8"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.2,
+      "lga_name": "Plantagenet (S)",
+      "lga_code": 57210,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76f9"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.0,
+      "lga_name": "Port Hedland (T)",
+      "lga_code": 57280,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76fa"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Mukinbudin (S)",
+      "lga_code": 55950,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76fb"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Mullewa (S)",
+      "lga_code": 56020,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76fc"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 11.9,
+      "lga_name": "Mundaring (S)",
+      "lga_code": 56090,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76fd"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.9,
+      "lga_name": "Quairading (S)",
+      "lga_code": 57350,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76fe"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Ravensthorpe (S)",
+      "lga_code": 57420,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_76ff"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.8,
+      "lga_name": "Rockingham (C)",
+      "lga_code": 57490,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7700"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.3,
+      "lga_name": "Roebourne (S)",
+      "lga_code": 57560,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7701"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Murchison (S)",
+      "lga_code": 56160,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7702"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.2,
+      "lga_name": "Murray (S)",
+      "lga_code": 56230,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7703"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.6,
+      "lga_name": "Nannup (S)",
+      "lga_code": 56300,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7704"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 21.0,
+      "lga_name": "Glenorchy (C)",
+      "lga_code": 62610,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7705"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.7,
+      "lga_name": "Hobart (C)",
+      "lga_code": 62810,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7706"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.8,
+      "lga_name": "Huon Valley (M)",
+      "lga_code": 63010,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7707"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.9,
+      "lga_name": "Kentish (M)",
+      "lga_code": 63210,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7708"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "King Island (M)",
+      "lga_code": 63410,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7709"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.3,
+      "lga_name": "Kingborough (M)",
+      "lga_code": 63610,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_770a"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.4,
+      "lga_name": "Latrobe (M)",
+      "lga_code": 63810,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_770b"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 20.4,
+      "lga_name": "Launceston (C)",
+      "lga_code": 64010,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_770c"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.6,
+      "lga_name": "Meander Valley (M)",
+      "lga_code": 64210,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_770d"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.6,
+      "lga_name": "Northern Midlands (M)",
+      "lga_code": 64610,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_770e"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.7,
+      "lga_name": "Sorell (M)",
+      "lga_code": 64810,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_770f"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 23.1,
+      "lga_name": "Southern Midlands (M)",
+      "lga_code": 65010,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7710"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.9,
+      "lga_name": "Tasman (M)",
+      "lga_code": 65210,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7711"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.3,
+      "lga_name": "Waratah\/Wynyard (M)",
+      "lga_code": 65410,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7712"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 20.1,
+      "lga_name": "West Coast (M)",
+      "lga_code": 65610,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7713"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Narembeen (S)",
+      "lga_code": 56370,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7714"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Narrogin (S)",
+      "lga_code": 56450,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7715"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.6,
+      "lga_name": "West Tamar (M)",
+      "lga_code": 65810,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7716"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.7,
+      "lga_name": "Alice Springs (T)",
+      "lga_code": 70200,
+      "ste_name": "nt"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7717"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.3,
+      "lga_name": "Northam (S)",
+      "lga_code": 56730,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7718"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 10.7,
+      "lga_name": "Northampton (S)",
+      "lga_code": 56790,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7719"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Nungarin (S)",
+      "lga_code": 56860,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_771a"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Perenjori (S)",
+      "lga_code": 57000,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_771b"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.9,
+      "lga_name": "Perth (C)",
+      "lga_code": 57080,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_771c"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Sandstone (S)",
+      "lga_code": 57630,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_771d"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 11.4,
+      "lga_name": "Serpentine-Jarrahdale (S)",
+      "lga_code": 57700,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_771e"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Shark Bay (S)",
+      "lga_code": 57770,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_771f"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 9.7,
+      "lga_name": "South Perth (C)",
+      "lga_code": 57840,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7720"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.5,
+      "lga_name": "Stirling (C)",
+      "lga_code": 57910,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7721"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 8.8,
+      "lga_name": "Subiaco (C)",
+      "lga_code": 57980,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7722"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.7,
+      "lga_name": "Swan (C)",
+      "lga_code": 58050,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7723"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Tammin (S)",
+      "lga_code": 58190,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7724"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Three Springs (S)",
+      "lga_code": 58260,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7725"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.7,
+      "lga_name": "Toodyay (S)",
+      "lga_code": 58330,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7726"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.3,
+      "lga_name": "Palmerston (C)",
+      "lga_code": 72800,
+      "ste_name": "nt"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7727"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Roper Gulf (S)",
+      "lga_code": 73600,
+      "ste_name": "nt"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7728"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Tiwi Islands (S)",
+      "lga_code": 74050,
+      "ste_name": "nt"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7729"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Victoria-Daly (S)",
+      "lga_code": 74500,
+      "ste_name": "nt"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_772a"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Trayning (S)",
+      "lga_code": 58400,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_772b"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Upper Gascoyne (S)",
+      "lga_code": 58470,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_772c"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.7,
+      "lga_name": "Victoria Park (T)",
+      "lga_code": 58510,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_772d"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Victoria Plains (S)",
+      "lga_code": 58540,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_772e"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Wagait (S)",
+      "lga_code": 74560,
+      "ste_name": "nt"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_772f"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "West Arnhem (S)",
+      "lga_code": 74660,
+      "ste_name": "nt"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7730"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Unincorporated NT",
+      "lga_code": 79399,
+      "ste_name": "nt"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7731"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.2,
+      "lga_name": "Vincent (T)",
+      "lga_code": 58570,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7732"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.1,
+      "lga_name": "Wagin (S)",
+      "lga_code": 58610,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7733"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Wandering (S)",
+      "lga_code": 58680,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7734"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.3,
+      "lga_name": "Wanneroo (C)",
+      "lga_code": 58760,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7735"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.7,
+      "lga_name": "Waroona (S)",
+      "lga_code": 58820,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7736"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "West Arthur (S)",
+      "lga_code": 58890,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7737"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.6,
+      "lga_name": "Unincorporated ACT",
+      "lga_code": 89399,
+      "ste_name": "act"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7738"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Westonia (S)",
+      "lga_code": 59030,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7739"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Wickepin (S)",
+      "lga_code": 59100,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_773a"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Williams (S)",
+      "lga_code": 59170,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_773b"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Wiluna (S)",
+      "lga_code": 59250,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_773c"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.7,
+      "lga_name": "Wongan-Ballidu (S)",
+      "lga_code": 59310,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_773d"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Woodanilling (S)",
+      "lga_code": 59320,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_773e"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Wyalkatchem (S)",
+      "lga_code": 59330,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_773f"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Wyndham-East Kimberley (S)",
+      "lga_code": 59340,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7740"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Yalgoo (S)",
+      "lga_code": 59350,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7741"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 12.9,
+      "lga_name": "Yilgarn (S)",
+      "lga_code": 59360,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7742"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.3,
+      "lga_name": "York (S)",
+      "lga_code": 59370,
+      "ste_name": "wa"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7743"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 20.7,
+      "lga_name": "Break O'Day (M)",
+      "lga_code": 60210,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7744"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 22.0,
+      "lga_name": "Brighton (M)",
+      "lga_code": 60410,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7745"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 19.9,
+      "lga_name": "Burnie (C)",
+      "lga_code": 60610,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7746"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 17.7,
+      "lga_name": "Central Coast (M)",
+      "lga_code": 60810,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7747"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 23.1,
+      "lga_name": "Central Highlands (M)",
+      "lga_code": 61010,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7748"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.2,
+      "lga_name": "Circular Head (M)",
+      "lga_code": 61210,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7749"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 16.2,
+      "lga_name": "Clarence (C)",
+      "lga_code": 61410,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_774a"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 21.7,
+      "lga_name": "Derwent Valley (M)",
+      "lga_code": 61510,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_774b"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 20.4,
+      "lga_name": "Devonport (C)",
+      "lga_code": 61610,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_774c"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 20.7,
+      "lga_name": "Dorset (M)",
+      "lga_code": 61810,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_774d"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Flinders (M)",
+      "lga_code": 62010,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_774e"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 20.7,
+      "lga_name": "George Town (M)",
+      "lga_code": 62210,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_774f"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 15.7,
+      "lga_name": "Glamorgan\/Spring Bay (M)",
+      "lga_code": 62410,
+      "ste_name": "tas"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7750"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Barkly (S)",
+      "lga_code": 70420,
+      "ste_name": "nt"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7751"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Belyuen (S)",
+      "lga_code": 70540,
+      "ste_name": "nt"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7752"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Central Desert (S)",
+      "lga_code": 70620,
+      "ste_name": "nt"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7753"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "Coomalie (S)",
+      "lga_code": 70700,
+      "ste_name": "nt"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7754"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 14.1,
+      "lga_name": "Darwin (C)",
+      "lga_code": 71000,
+      "ste_name": "nt"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7755"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "East Arnhem (S)",
+      "lga_code": 71300,
+      "ste_name": "nt"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7756"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 18.1,
+      "lga_name": "Katherine (T)",
+      "lga_code": 72200,
+      "ste_name": "nt"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7757"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": 13.4,
+      "lga_name": "Litchfield (M)",
+      "lga_code": 72300,
+      "ste_name": "nt"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7758"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "fair_poor_hlth_2_asr": null,
+      "lga_name": "MacDonnell (S)",
+      "lga_code": 72330,
+      "ste_name": "nt"
+    },
+    "id": "tua_phidu_2015_lga_aust_self_assessed_health_2014_15.fid--2ea3ac96_1630aa02ab6_7759"
+  }]
+}
