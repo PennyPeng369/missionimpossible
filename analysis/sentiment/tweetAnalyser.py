@@ -1,9 +1,12 @@
-'''
+"""
 Team: Team 22
 City: Melbourne
-Name: Na Chang
-Student ID: 858604
-'''
+Name: Yanjun Peng (906571)
+	  Na Chang (858604)
+	  Zepeng Dan (933678)
+	  Junhan Liu (878637)
+	  Peishan Li (905508)
+"""
 
 import couchConnector
 import json
