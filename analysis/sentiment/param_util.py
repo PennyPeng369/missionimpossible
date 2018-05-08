@@ -1,5 +1,6 @@
 """
 Utility for model parameter
+This is from project https://github.com/xiaohan2012/twitter-sent-dnn
 """
 import os
 try:

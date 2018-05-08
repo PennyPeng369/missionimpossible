@@ -1,3 +1,10 @@
+'''
+Team: Team 22
+City: Melbourne
+Name: Yanjun Peng
+Student ID: 906571
+'''
+
 import json
 
 def get_lga_name(lga_string):

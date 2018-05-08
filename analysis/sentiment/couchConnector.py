@@ -1,3 +1,10 @@
+'''
+Team: Team 22
+City: Melbourne
+Name: Na Chang
+Student ID: 858604
+'''
+
 import couchdb
 import json
 

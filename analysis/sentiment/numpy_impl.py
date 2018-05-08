@@ -1,3 +1,6 @@
+"""
+This is from project https://github.com/xiaohan2012/twitter-sent-dnn
+"""
 import numpy as np
 from scipy.signal import convolve2d
 

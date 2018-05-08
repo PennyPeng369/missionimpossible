@@ -1,5 +1,6 @@
 """
 Numpy version of DCNN, used for prediction, instead of training
+This is from project https://github.com/xiaohan2012/twitter-sent-dnn
 """
 import numpy as np
 

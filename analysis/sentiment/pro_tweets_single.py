@@ -1,3 +1,10 @@
+'''
+Team: Team 22
+City: Melbourne
+Name: Yanjun Peng
+Student ID: 906571
+'''
+
 import couchdb
 from sentiment import sentiment_score,sentiment_scores_of_sents
 import reverse_geocoder as rg

@@ -1,6 +1,8 @@
-"""
+'''
 Sentiment prediction module
-"""
+This is from project https://github.com/xiaohan2012/twitter-sent-dnn
+'''
+
 import nltk
 import numpy as np
 
