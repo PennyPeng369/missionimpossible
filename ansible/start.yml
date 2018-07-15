@@ -1,0 +1,11 @@
+---
+
+- hosts: MyCloud
+  sudo: yes
+
+  tasks:
+    - name: launch harvest
+      shell: bash /home/ubuntu/project/CCCP2_V2/start_new_streamer_proccess
+
+    - name: launch servevr 
+      shell: nohup node /home/ubuntu/project/web_applications/index.js &

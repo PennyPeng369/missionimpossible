@@ -1,0 +1,6 @@
+---
+
+- include: config.yml
+- include: enviSetup.yaml
+- include: couchDBSetup.yaml 
+- include: start.yml

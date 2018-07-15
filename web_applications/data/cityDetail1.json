@@ -1,0 +1,638 @@
+{
+  "Melbourne": {
+    "totalSenti": 44605.31929123243,
+    "totalNeg": 76399,
+    "totalTweet": 148051,
+    "totalPos": 71652,
+    "health": 14.717857142857143,
+    "income": 857.1428571428571,
+    "city_name": "Melbourne",
+    "cities": {
+      "Monash": {
+        "totalNeg": 10,
+        "totalTweet": 22,
+        "totalPos": 12,
+        "health": 13.3,
+        "income": 775.25,
+        "totalSenti": 8.40077244147054
+      },
+      "Bayside": {
+        "totalNeg": 60,
+        "totalTweet": 99,
+        "totalPos": 39,
+        "health": 8.7,
+        "income": 1148.25,
+        "totalSenti": 24.997040994185078
+      },
+      "Banyule": {
+        "totalNeg": 7,
+        "totalTweet": 13,
+        "totalPos": 6,
+        "health": 13.8,
+        "income": 897.75,
+        "totalSenti": 4.783183569716766
+      },
+      "Port Phillip": {
+        "totalNeg": 641,
+        "totalTweet": 1177,
+        "totalPos": 536,
+        "health": 13.2,
+        "income": 1152.25,
+        "totalSenti": 324.9224398140137
+      },
+      "Glen Eira": {
+        "totalNeg": 10,
+        "totalTweet": 23,
+        "totalPos": 13,
+        "health": 12.2,
+        "income": 976.25,
+        "totalSenti": 7.337994885941386
+      },
+      "Darebin": {
+        "totalNeg": 33,
+        "totalTweet": 59,
+        "totalPos": 26,
+        "health": 19.3,
+        "income": 799.25,
+        "totalSenti": 19.024840679139814
+      },
+      "Whitehorse": {
+        "totalNeg": 20,
+        "totalTweet": 32,
+        "totalPos": 12,
+        "health": 13.2,
+        "income": 833.5,
+        "totalSenti": 8.519124063597962
+      },
+      "Wyndham": {
+        "totalNeg": 57,
+        "totalTweet": 104,
+        "totalPos": 47,
+        "health": 16.1,
+        "income": 772.0,
+        "totalSenti": 32.053677405999984
+      },
+      "Stonnington": {
+        "totalNeg": 153,
+        "totalTweet": 235,
+        "totalPos": 82,
+        "health": 10.1,
+        "income": 1172.75,
+        "totalSenti": 57.96880968037739
+      },
+      "Casey": {
+        "totalNeg": 294,
+        "totalTweet": 628,
+        "totalPos": 334,
+        "health": 16.3,
+        "income": 724.75,
+        "totalSenti": 221.7030952887668
+      },
+      "Maribyrnong": {
+        "totalNeg": 108,
+        "totalTweet": 204,
+        "totalPos": 96,
+        "health": 18.9,
+        "income": 835.5,
+        "totalSenti": 63.251044067946
+      },
+      "Knox": {
+        "totalNeg": 87,
+        "totalTweet": 166,
+        "totalPos": 79,
+        "health": 14.2,
+        "income": 791.25,
+        "totalSenti": 52.578071084623595
+      },
+      "Mornington Peninsula": {
+        "totalNeg": 73124,
+        "totalTweet": 140630,
+        "totalPos": 67506,
+        "health": 13.0,
+        "income": 781.25,
+        "totalSenti": 42311.74877890887
+      },
+      "Moonee Valley": {
+        "totalNeg": 85,
+        "totalTweet": 129,
+        "totalPos": 44,
+        "health": 14.7,
+        "income": 914.5,
+        "totalSenti": 28.733093106364382
+      },
+      "Yarra Ranges": {
+        "totalNeg": 215,
+        "totalTweet": 494,
+        "totalPos": 279,
+        "health": 13.4,
+        "income": 784.0,
+        "totalSenti": 175.07864467018427
+      },
+      "Melbourne": {
+        "totalNeg": 304,
+        "totalTweet": 523,
+        "totalPos": 219,
+        "health": 14.7,
+        "income": 814.5,
+        "totalSenti": 140.62893875625207
+      },
+      "Moreland": {
+        "totalNeg": 35,
+        "totalTweet": 59,
+        "totalPos": 24,
+        "health": 18.6,
+        "income": 824.0,
+        "totalSenti": 12.579435371859091
+      },
+      "Nillumbik": {
+        "totalNeg": 5,
+        "totalTweet": 20,
+        "totalPos": 15,
+        "health": 10.0,
+        "income": 962.5,
+        "totalSenti": 9.5183877278089
+      },
+      "Boroondara": {
+        "totalNeg": 9,
+        "totalTweet": 18,
+        "totalPos": 9,
+        "health": 8.4,
+        "income": 1109.5,
+        "totalSenti": 6.587153783343398
+      },
+      "Manningham": {
+        "totalNeg": 12,
+        "totalTweet": 21,
+        "totalPos": 9,
+        "health": 11.3,
+        "income": 852.0,
+        "totalSenti": 4.945726400349036
+      },
+      "Greater Dandenong": {
+        "totalNeg": 19,
+        "totalTweet": 35,
+        "totalPos": 16,
+        "health": 20.1,
+        "income": 571.25,
+        "totalSenti": 8.592168319385104
+      },
+      "Whittlesea": {
+        "totalNeg": 52,
+        "totalTweet": 103,
+        "totalPos": 51,
+        "health": 19.0,
+        "income": 695.5,
+        "totalSenti": 32.59675503925685
+      },
+      "Cardinia": {
+        "totalNeg": 748,
+        "totalTweet": 1483,
+        "totalPos": 735,
+        "health": 14.3,
+        "income": 770.0,
+        "totalSenti": 524.2990780880234
+      },
+      "Yarra": {
+        "totalNeg": 26,
+        "totalTweet": 50,
+        "totalPos": 24,
+        "health": 16.0,
+        "income": 1108.0,
+        "totalSenti": 15.434788438268125
+      },
+      "Brimbank": {
+        "totalNeg": 70,
+        "totalTweet": 132,
+        "totalPos": 62,
+        "health": 21.2,
+        "income": 609.5,
+        "totalSenti": 37.286064276107524
+      },
+      "Frankston": {
+        "totalNeg": 12,
+        "totalTweet": 18,
+        "totalPos": 6,
+        "health": 16.6,
+        "income": 749.75,
+        "totalSenti": 3.2549739311700963
+      },
+      "Melton": {
+        "totalNeg": 193,
+        "totalTweet": 1560,
+        "totalPos": 1367,
+        "health": 17.6,
+        "income": 735.5,
+        "totalSenti": 466.48750475619505
+      },
+      "Maroondah": {
+        "totalNeg": 10,
+        "totalTweet": 14,
+        "totalPos": 4,
+        "health": 13.9,
+        "income": 839.5,
+        "totalSenti": 2.0077056832210696
+      }
+    }
+  },
+  "Brisbane": {
+    "totalSenti": 11730.20191501044,
+    "totalNeg": 19365,
+    "totalTweet": 37689,
+    "totalPos": 18324,
+    "health": 15.257142857142856,
+    "income": 756.0,
+    "city_name": "Brisbane",
+    "cities": {
+      "Scenic Rim": {
+        "totalNeg": 22,
+        "totalTweet": 44,
+        "totalPos": 22,
+        "health": 14.4,
+        "income": 683.25,
+        "totalSenti": 15.351298307627081
+      },
+      "Brisbane": {
+        "totalNeg": 885,
+        "totalTweet": 1720,
+        "totalPos": 835,
+        "health": 13.3,
+        "income": 928.0,
+        "totalSenti": 532.1976063097131
+      },
+      "Moreton Bay": {
+        "totalNeg": 142,
+        "totalTweet": 320,
+        "totalPos": 178,
+        "health": 15.3,
+        "income": 770.25,
+        "totalSenti": 116.93976687026311
+      },
+      "Logan": {
+        "totalNeg": 69,
+        "totalTweet": 153,
+        "totalPos": 84,
+        "health": 16.9,
+        "income": 711.5,
+        "totalSenti": 47.37762819285514
+      },
+      "Ipswich": {
+        "totalNeg": 18128,
+        "totalTweet": 35225,
+        "totalPos": 17097,
+        "health": 17.4,
+        "income": 740.75,
+        "totalSenti": 10950.890214406947
+      },
+      "Redland": {
+        "totalNeg": 43,
+        "totalTweet": 75,
+        "totalPos": 32,
+        "health": 13.1,
+        "income": 832.25,
+        "totalSenti": 19.37166289170797
+      },
+      "Lockyer Valley": {
+        "totalNeg": 76,
+        "totalTweet": 152,
+        "totalPos": 76,
+        "health": 16.4,
+        "income": 626.0,
+        "totalSenti": 48.073738031327245
+      }
+    }
+  },
+  "Perth": {
+    "totalSenti": 711.5352997610428,
+    "totalNeg": 1270,
+    "totalTweet": 2432,
+    "totalPos": 1162,
+    "health": 11.733333333333334,
+    "income": 951.5833333333334,
+    "city_name": "Perth",
+    "cities": {
+      "Gosnells": {
+        "totalNeg": 5,
+        "totalTweet": 13,
+        "totalPos": 8,
+        "health": 14.8,
+        "income": 758.75,
+        "totalSenti": 4.697726202309081
+      },
+      "Victoria Park": {
+        "totalNeg": 2,
+        "totalTweet": 3,
+        "totalPos": 1,
+        "health": 13.7,
+        "income": 889.0,
+        "totalSenti": 0.39429631826972117
+      },
+      "Joondalup": {
+        "totalNeg": 26,
+        "totalTweet": 43,
+        "totalPos": 17,
+        "health": 10.4,
+        "income": 978.75,
+        "totalSenti": 9.207706052984722
+      },
+      "Subiaco": {
+        "totalNeg": 138,
+        "totalTweet": 264,
+        "totalPos": 126,
+        "health": 8.8,
+        "income": 1103.5,
+        "totalSenti": 72.29816203047399
+      },
+      "Rockingham": {
+        "totalNeg": 81,
+        "totalTweet": 151,
+        "totalPos": 70,
+        "health": 13.8,
+        "income": 844.25,
+        "totalSenti": 43.415653202870374
+      },
+      "Kwinana": {
+        "totalNeg": 25,
+        "totalTweet": 41,
+        "totalPos": 16,
+        "health": 17.1,
+        "income": 764.0,
+        "totalSenti": 11.88627113389288
+      },
+      "Mosman Park": {
+        "totalNeg": 0,
+        "totalTweet": 1,
+        "totalPos": 1,
+        "health": 6.6,
+        "income": 1144.75,
+        "totalSenti": 0.8120713720097648
+      },
+      "Wanneroo": {
+        "totalNeg": 79,
+        "totalTweet": 133,
+        "totalPos": 54,
+        "health": 13.3,
+        "income": 841.75,
+        "totalSenti": 33.56691391137336
+      },
+      "Claremont": {
+        "totalNeg": 1,
+        "totalTweet": 1,
+        "totalPos": 0,
+        "health": 6.5,
+        "income": 1190.5,
+        "totalSenti": 0.07872856651488581
+      },
+      "Armadale": {
+        "totalNeg": 47,
+        "totalTweet": 78,
+        "totalPos": 31,
+        "health": 14.1,
+        "income": 821.25,
+        "totalSenti": 19.8971812493108
+      },
+      "Bayswater": {
+        "totalNeg": 1,
+        "totalTweet": 3,
+        "totalPos": 2,
+        "health": 13.9,
+        "income": 874.5,
+        "totalSenti": 1.2022942451894272
+      },
+      "Nedlands": {
+        "totalNeg": 108,
+        "totalTweet": 193,
+        "totalPos": 85,
+        "health": 6.1,
+        "income": 1295.0,
+        "totalSenti": 52.355016085632144
+      },
+      "Bassendean": {
+        "totalNeg": 10,
+        "totalTweet": 21,
+        "totalPos": 11,
+        "health": 14.8,
+        "income": 873.25,
+        "totalSenti": 6.608584910117929
+      },
+      "Swan": {
+        "totalNeg": 73,
+        "totalTweet": 145,
+        "totalPos": 72,
+        "health": 13.7,
+        "income": 821.5,
+        "totalSenti": 44.68900601751653
+      },
+      "Fremantle": {
+        "totalNeg": 58,
+        "totalTweet": 113,
+        "totalPos": 55,
+        "health": 13.1,
+        "income": 967.25,
+        "totalSenti": 31.7866445186692
+      },
+      "Stirling": {
+        "totalNeg": 29,
+        "totalTweet": 49,
+        "totalPos": 20,
+        "health": 12.5,
+        "income": 940.25,
+        "totalSenti": 11.57365444255565
+      },
+      "Mundaring": {
+        "totalNeg": 12,
+        "totalTweet": 25,
+        "totalPos": 13,
+        "health": 11.9,
+        "income": 829.5,
+        "totalSenti": 6.822079009478127
+      },
+      "Vincent": {
+        "totalNeg": 6,
+        "totalTweet": 12,
+        "totalPos": 6,
+        "health": 12.2,
+        "income": 1108.25,
+        "totalSenti": 3.046585616725258
+      },
+      "Canning": {
+        "totalNeg": 1,
+        "totalTweet": 3,
+        "totalPos": 2,
+        "health": 12.1,
+        "income": 799.25,
+        "totalSenti": 1.667524687847564
+      },
+      "Melville": {
+        "totalNeg": 4,
+        "totalTweet": 14,
+        "totalPos": 10,
+        "health": 9.2,
+        "income": 1003.0,
+        "totalSenti": 5.890489971665014
+      },
+      "South Perth": {
+        "totalNeg": 472,
+        "totalTweet": 977,
+        "totalPos": 505,
+        "health": 9.7,
+        "income": 1034.75,
+        "totalSenti": 319.81336390920404
+      },
+      "Cambridge": {
+        "totalNeg": 71,
+        "totalTweet": 108,
+        "totalPos": 37,
+        "health": 6.8,
+        "income": 1270.5,
+        "totalSenti": 19.67990161037821
+      },
+      "Kalamunda": {
+        "totalNeg": 1,
+        "totalTweet": 4,
+        "totalPos": 3,
+        "health": 11.5,
+        "income": 881.25,
+        "totalSenti": 2.2027857832254902
+      },
+      "Belmont": {
+        "totalNeg": 20,
+        "totalTweet": 37,
+        "totalPos": 17,
+        "health": 15.0,
+        "income": 803.25,
+        "totalSenti": 7.942658912828408
+      }
+    }
+  },
+  "Sydney": {
+    "totalSenti": 36298.804581662655,
+    "totalNeg": 57483,
+    "totalTweet": 114160,
+    "totalPos": 56677,
+    "health": 11.760000000000002,
+    "income": 999.9166666666666,
+    "city_name": "Sydney",
+    "cities": {
+      "Woollahra": {
+        "totalNeg": 6,
+        "totalTweet": 14,
+        "totalPos": 8,
+        "health": 6.8,
+        "income": 1427.75,
+        "totalSenti": 4.3900874114049495
+      },
+      "Hunters Hill": {
+        "totalNeg": 1,
+        "totalTweet": 2,
+        "totalPos": 1,
+        "health": 7.9,
+        "income": 1211.0,
+        "totalSenti": 0.7664466802319994
+      },
+      "Liverpool": {
+        "totalNeg": 21,
+        "totalTweet": 42,
+        "totalPos": 21,
+        "health": 17.5,
+        "income": 697.5,
+        "totalSenti": 12.883144153372182
+      },
+      "Rockdale": {
+        "totalNeg": 77,
+        "totalTweet": 153,
+        "totalPos": 76,
+        "health": 15.2,
+        "income": 784.0,
+        "totalSenti": 43.786965417301566
+      },
+      "Wollondilly": {
+        "totalNeg": 56772,
+        "totalTweet": 112696,
+        "totalPos": 55924,
+        "health": 12.0,
+        "income": 855.75,
+        "totalSenti": 35824.5788258114
+      },
+      "Parramatta": {
+        "totalNeg": 20,
+        "totalTweet": 49,
+        "totalPos": 29,
+        "health": 14.5,
+        "income": 850.25,
+        "totalSenti": 18.750817503591474
+      },
+      "Strathfield": {
+        "totalNeg": 8,
+        "totalTweet": 18,
+        "totalPos": 10,
+        "health": 11.0,
+        "income": 830.25,
+        "totalSenti": 6.039443451432132
+      },
+      "Willoughby": {
+        "totalNeg": 21,
+        "totalTweet": 36,
+        "totalPos": 15,
+        "health": 8.1,
+        "income": 1179.0,
+        "totalSenti": 10.582104083725083
+      },
+      "Randwick": {
+        "totalNeg": 40,
+        "totalTweet": 98,
+        "totalPos": 58,
+        "health": 12.5,
+        "income": 983.5,
+        "totalSenti": 33.76819306165644
+      },
+      "North Sydney": {
+        "totalNeg": 107,
+        "totalTweet": 220,
+        "totalPos": 113,
+        "health": 8.2,
+        "income": 1425.25,
+        "totalSenti": 72.41279673236158
+      },
+      "Ryde": {
+        "totalNeg": 20,
+        "totalTweet": 51,
+        "totalPos": 31,
+        "health": 11.3,
+        "income": 921.5,
+        "totalSenti": 20.748174101305892
+      },
+      "Hume": {
+        "totalNeg": 304,
+        "totalTweet": 615,
+        "totalPos": 311,
+        "health": 19.2,
+        "income": 655.25,
+        "totalSenti": 199.82509585900473
+      },
+      "Wentworth": {
+        "totalNeg": 4,
+        "totalTweet": 8,
+        "totalPos": 4,
+        "health": 15.3,
+        "income": 650.5,
+        "totalSenti": 2.974053024266599
+      },
+      "Lane Cove": {
+        "totalNeg": 41,
+        "totalTweet": 79,
+        "totalPos": 38,
+        "health": 7.4,
+        "income": 1301.0,
+        "totalSenti": 24.231007360048352
+      },
+      "Waverley": {
+        "totalNeg": 41,
+        "totalTweet": 79,
+        "totalPos": 38,
+        "health": 9.5,
+        "income": 1226.25,
+        "totalSenti": 23.067427011558017
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+#! /bin/bash
+
+rabbitmq-server &
+
+echo $! > pid_rabbitmq_server
+
+for number in {1..4}
+
+do
+python SearcherQueue.py 2>&1 >> /database/SearchQueue$number.log &
+
+echo $! > pid_SearchQueue$number
+
+done
+
+python StreamQueue.py 2>&1 >> /database/Streamer.log &
+
+echo $! > pid_Streamer
+
+python Searcher.py 2>&1 >> /database/Searcher.log &
+
+echo $! > pid_Searcher
+
+python Driver.py 2>&1 >> /database/Driver.log &
+
+echo $! > pid_Driver

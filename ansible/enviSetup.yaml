@@ -1,0 +1,55 @@
+---
+
+- hosts: MyCloud
+  sudo: yes
+
+  tasks:
+
+    - name: apt-get update
+      raw: apt-get update
+      
+    - name: Install vim and Rabbit MQ
+      apt: 
+        name: "{{ item }}" 
+        state: latest
+      with_items:
+        - vim
+        - rabbitmq-server
+
+
+    - name: Setup Python envi
+      apt: 
+        name: "{{item}}"
+        state: latest
+      with_items:
+        - python-pip
+        - python-dev
+        - build-essential
+
+    - name: Install Data Packages
+      pip: 
+        name: "{{item}}"
+        state: latest
+      with_items:
+        - Tweepy
+        - couchdb
+        - nltk
+        - numpy
+        - pika
+        - reverse_geocoder
+        - scipy
+
+    - name: Setup NodeJS envi
+      shell: curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+
+    - name: install NodeJS and nginx
+      apt: 
+        name: "{{ item }}"
+        state: latest
+      with_items:
+        - nodejs
+        - nginx
+    
+    - name: install nodejs couchdb connection tool
+      shell: npm install nano
+...

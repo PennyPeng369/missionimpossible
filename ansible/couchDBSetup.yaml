@@ -1,0 +1,65 @@
+---
+
+- hosts: MyCloud
+  sudo: yes
+
+
+
+  tasks:
+########
+    - name: update apt-get
+      shell: sudo apt-get update
+      
+    - name : install dependencies for CouchDB
+      shell: sudo apt-get --no-install-recommends -y install \
+                build-essential pkg-config erlang \
+                libicu-dev libmozjs185-dev libcurl4-openssl-dev
+    
+
+
+    - name: download CouchDB 2.0
+      get_url: url=http://apache.melbourneitmirror.net/couchdb/source/2.1.1/apache-couchdb-2.1.1.tar.gz  dest=/tmp/
+
+    - name: unarchive the .tar.gz file
+      shell: tar -xvzf apache-couchdb-2.1.1.tar.gz chdir=/tmp
+      tags: unarchive
+
+    - name: execute configure
+      shell: ./configure chdir=/tmp/apache-couchdb-2.1.1
+      tags: configure
+      async: 1800
+
+    - name: ensure epmd is not running
+      shell: pkill epmd
+      ignore_errors: yes
+
+    - name: execute make
+      shell: chdir=/tmp/apache-couchdb-2.1.1 {{ item }}
+      with_items:
+      - make clean
+      - make
+      - make release
+      tags: make
+
+    - name: copy the rel/couchdb folder to /database
+      shell: cp -r /tmp/apache-couchdb-2.1.1/rel/couchdb /database
+
+    - name: install the sysv script to run CouchDB as a service
+      copy: src=couchdb dest=/etc/init.d/couchdb mode=0755
+
+    - name: start CouchDB and ensure it is enabled at boot time
+      service: name=couchdb state=started enabled=yes
+
+    - name: ensure Python httplib2 is installed
+      apt:
+        name: python-httplib2
+        update_cache: yes
+        state: present
+
+    - name: check that we can ping CouchDB on all its ports
+      uri: url=http://127.0.0.1:{{ item }}
+      with_items:
+      - 5986
+      - 5984
+
+...

@@ -1,0 +1,40 @@
+{
+  "cityList": [
+    {
+      "Lat": -37.8136,
+      "content": {
+        "Neg": "Neg:51.60%",
+        "name": "Melbourne",
+        "Pos": "Pos:48.40%"
+      },
+      "Lng": 144.9631
+    },
+    {
+      "Lat": -33.866,
+      "content": {
+        "Neg": "Neg:50.35",
+        "name": "Sydney",
+        "Pos": "Pos:49.65%"
+      },
+      "Lng": 151.196
+    },
+    {
+      "Lat": -27.4698,
+      "content": {
+        "Neg": "Neg:51.38%",
+        "name": "Brisbane",
+        "Pos": "Pos:48.62%"
+      },
+      "Lng": 153.0251
+    },
+    {
+      "Lat": -31.9505,
+      "content": {
+        "Neg": "Neg:52.22%",
+        "name": "Perth",
+        "Pos": "Pos:47.78%"
+      },
+      "Lng": 115.8605
+    }
+  ]
+}

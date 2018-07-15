@@ -1,0 +1,28 @@
+---
+- hosts: MyCloud
+  sudo : yes
+
+  tasks:
+    - name: update apt-get
+      shell: sudo apt-get update
+        
+    - name: install the necessary lib from apt
+      apt:
+        name: "{{ item }}"
+        state: latest
+      with_items:
+        - git
+
+    - name: create ~/project/ directory
+      file: 
+        path: /home/ubuntu/project/ 
+        state: directory
+        mode: 0777
+
+    - name: Clone git repository(project) into file
+      git:
+        dest: /home/ubuntu/project/
+        repo: https://github.com/tryerleader/missionimpossible.git
+        update: no
+        clone: yes
+ 

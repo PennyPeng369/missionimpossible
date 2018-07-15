@@ -1,0 +1,12 @@
+#! /bin/bash
+
+for number in {1..4}
+do
+
+kill $(cat ./pid_SearchQueue$number)
+
+done
+
+kill $(cat ./pid_Searcher)
+kill $(cat ./pid_Streamer)
+kill $(cat ./pid_Driver)

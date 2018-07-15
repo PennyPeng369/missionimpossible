@@ -1,0 +1,62 @@
+<!-- Team: Team 22 -->
+<!-- City: Melbourne -->
+<!-- Name: Yanjun Peng (906571) -->
+<!-- Na Chang (858604) -->
+<!-- Zepeng Dan (933678) -->
+<!-- Junhan Liu (878637) -->
+<!-- Peishan Li (905508) -->
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8">
+<title>Melbourne</title>
+
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+
+
+<link rel="stylesheet" type="text/css" href="css/map.css">
+
+<script src="js/melbourne_map.js"></script>
+
+<script src="//maps.google.com/maps/api/js?key=AIzaSyCYCfaamPFUo6ePLlnUf68vgOuFcXeyiwo"></script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/d3.v3.min.js"></script>
+
+</head>
+<body onload="initMap();">
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
+  
+  <ul class="navbar-nav">
+    <li class="nav-item">
+      <a class="nav-link" href="index.html">Home</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="city.html">City</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="melbourne.html">Melbourne</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="stalking.html">Stalking</a>
+    </li>
+  </ul>
+</nav>
+
+<div id="melbourne_map"></div>
+<div id = "chooseTime">
+  <span id="timeText"><b>Choose times to explore:</b></span>
+  <p></p>
+  <button id="time0">0:00-4:00</button>
+  <button id="time1">4:00-8:00</button>
+  <button id="time2">8:00-12:00</button>
+  <button id="time3">12:00-16:00</button>
+  <button id="time4">16:00-20:00</button>
+  <button id="time5">20:00-24:00</button>
+  </div>
+</body>
+</html>
